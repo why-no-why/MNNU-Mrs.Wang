@@ -104,3 +104,8 @@ document.getElementById("ts").innerHTML="Hello"
 部分文字高亮：使用``包围，这个符号不是单引号，而是Tab上方，数字1左边那个按键的符号
 
 文字超链接格式：[要显示的文字](链接的地址"鼠标悬停显示")，在URL之后用双引号括起来一个字符串，即鼠标悬停显示的文本，可不写
+
+
+## 可参考链接
+(http://blog.csdn.net/brian512/article/details/41310269)<br>
+(http://www.cnblogs.com/shiy/p/6526868.html)
